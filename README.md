@@ -5,7 +5,7 @@
 
 - 🌱 Now, I want to move towards backend development and am currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [bexruz.uz](bexruz.uz)
+- 👨‍💻 All of my projects are available at [https://www.bexruz.uz/](https://www.bexruz.uz/)
 
 - 💬 Ask me about **react, vite, tailwindcss, sass**
 
