@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Behruz Madaminov</h1>
 <h3 align="center">I am a frontend developer from Uzbekistan. I have studied in this field for almost 3 years and have worked on personal projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=behruz746&label=Profile%20views&color=0e75b6&style=flat" alt="behruz746" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=behruz746" alt="behruz746" /></a> </p>
-
 - 🔭 Currently, I am working on an Insta downloader project for my portfolio. This project allows you to download reels, posts, stories, and IGTV videos through Instagram links. [Insta downloader](https://instagram-downloader-virid.vercel.app/)
 
 - 🌱 Now, I want to move towards backend development and am currently learning **Node.js**
@@ -19,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/behruz madaminov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="behruz madaminov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/behruz-madaminov-47245b273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="behruz-madaminov-47245b273" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22285729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22285729" height="30" width="40" /></a>
 <a href="https://instagram.com/behruz_bek_zero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="behruz_bek_zero" height="30" width="40" /></a>
 </p>
@@ -29,5 +25,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/behruzdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="behruzdev" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=behruz746&show_icons=true&locale=en&layout=compact" alt="behruz746" /></p>
