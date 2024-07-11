@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **madaminovbehruz746@gmail.com**
 
-- ⚡ Fun fact **If The Code Works Don't Touch It!**
+- ⚡ Fun fact **Opps 404 not found**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
