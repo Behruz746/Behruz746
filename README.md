@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **madaminovbehruz746@gmail.com**
 
-- ⚡ Fun fact **Opps 404 not found**
+- ⚡ Fun fact **I watch anime in my free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
