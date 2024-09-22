@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Behruz Madaminov</h1>
 <h3 align="center">A young-dumb 🤓 front end developer from Uzbekistan </h3>
 
-- 🔭 Currently, I am working on an Insta downloader project for my portfolio. This project allows you to download reels, posts, stories, and IGTV videos through Instagram links. [Insta downloader](https://instagram-downloader-virid.vercel.app/)
+- 🔭 Currently, I am working on an MovieHub project for my portfolio.
 
 - 🌱 Now, I want to move towards backend development and am currently learning **Node.js**
 
