@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Behruz Madaminov</h1>
-<h3 align="center">A young-dumb 🤓 front end developer from Uzbekistan </h3>
+<h3 align="center">A young 🤓 front end developer from Uzbekistan </h3>
 
 - 🔭 Currently, I am working on an MovieHub project for my portfolio.
 
